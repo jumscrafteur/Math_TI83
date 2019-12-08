@@ -1,6 +1,9 @@
 # Math_TI83
 
-## Pour ajouter une formule :
+## Syntaxe :
+
+### Ajouter une formule
+
 ```
 Lbl NOM_FORMULE_LABEL
 Disp "=========================="
@@ -12,16 +15,25 @@ Disp ""
 Disp ""
 Disp ""
 Disp "=========================="
-Pause 
-EffÉcran
+Pause
+EffÃ‰cran
 Goto NOM_MENU_LABEL
 ```
+
+| Expression | Syntaxe |
+| ---------- | ------- |
+| Vecteur v  | vec(v)  |
+| xÊ¸         | x^y     |
+| Uâ‚™         | U(n)    |
+| âˆž          | Inf     |
+
 > Merci de bien vouloir respecter au maximum cette mise en forme pour participer au programme
 
 ## TO-DO list
+
 - [x] Suites
 - [x] Nombres Complexes
-- [x] Nombres Dérivés
+- [x] Nombres DÃ©rivÃ©s
 - [x] Produit Scalaire
-- [ ] Logarithme Népérien
-- [ ] Outils convertion 8xp/txt 
+- [ ] Logarithme NÃ©pÃ©rien
+- [ ] Outils convertion 8xp/txt
