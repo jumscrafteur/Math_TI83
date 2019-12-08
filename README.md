@@ -18,9 +18,10 @@ Goto NOM_MENU_LABEL
 ```
 > Merci de bien vouloir respecter au maximum cette mise en forme pour participer au programme
 
-## Chapitres
+## TO-DO list
 - [x] Suites
 - [ ] Nombres Complexes
 - [ ] Nombres Dérivés
 - [ ] Produit Scalaire
 - [ ] Logarithme Népérien
+- [ ] Outils convertion 8xp/txt 
