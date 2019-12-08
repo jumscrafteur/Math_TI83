@@ -1,8 +1,6 @@
 # Math_TI83
 
-## Syntaxe :
-
-### Ajouter une formule
+## Ajouter une formule
 
 ```
 Lbl NOM_FORMULE_LABEL
@@ -20,14 +18,16 @@ EffÉcran
 Goto NOM_MENU_LABEL
 ```
 
+> Merci de bien vouloir respecter au maximum cette mise en forme pour participer au programme
+
+## Syntaxe
+
 | Expression | Syntaxe |
 | ---------- | ------- |
 | Vecteur v  | vec(v)  |
 | xʸ         | x^y     |
 | Uₙ         | U(n)    |
 | ∞          | Inf     |
-
-> Merci de bien vouloir respecter au maximum cette mise en forme pour participer au programme
 
 ## TO-DO list
 
