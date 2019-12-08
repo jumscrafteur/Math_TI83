@@ -20,7 +20,7 @@ Goto NOM_MENU_LABEL
 
 ## TO-DO list
 - [x] Suites
-- [ ] Nombres Complexes
+- [x] Nombres Complexes
 - [ ] Nombres Dérivés
 - [ ] Produit Scalaire
 - [ ] Logarithme Népérien
