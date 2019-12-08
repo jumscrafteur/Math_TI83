@@ -1,6 +1,6 @@
 # Math_TI83
 
-##Pour ajouter une formule :
+## Pour ajouter une formule :
 ```
 Lbl NOM_FORMULE_LABEL
 Disp "=========================="
