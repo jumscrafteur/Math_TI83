@@ -21,7 +21,7 @@ Goto NOM_MENU_LABEL
 ## TO-DO list
 - [x] Suites
 - [x] Nombres Complexes
-- [ ] Nombres Dérivés
+- [x] Nombres Dérivés
 - [ ] Produit Scalaire
 - [ ] Logarithme Népérien
 - [ ] Outils convertion 8xp/txt 
